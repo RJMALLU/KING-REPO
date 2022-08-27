@@ -34,6 +34,11 @@
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
+
+
+
+
+
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
@@ -111,7 +116,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/P58vQs?referralCode=GMB5tb)
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
